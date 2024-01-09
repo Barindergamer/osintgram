@@ -17,7 +17,7 @@ $ bash install.sh
 $ python3 osintgram.py
 ```
 ## Instructions
-- **Enter instagram username**: By writing down the target's Instagram username, the tool will automatically perform OSINT and collect information about the target's Instagram
+- **Enter instagram username*avneet_pb_65_*: By writing down the target's Instagram username, the tool will automatically perform OSINT and collect information about the target's Instagram
 - **Masukan Link Foto Atau Vidio Yang Ingin Di Ambil**: Enter the photo or video link on the target, then the tool will automatically take or download the photo or video based on the link taken
 - **Done**: You have succeeded in gathering some information about the target
 
